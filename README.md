@@ -6,7 +6,7 @@
 
 The final product should look something like this:
 
-<img src="./completed-clock.png">
+<img src="./src/completed-clock.png">
 
 ##Instructions:
 
